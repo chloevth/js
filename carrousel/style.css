@@ -1,0 +1,12 @@
+#carrousel{
+    height: 480px;
+    width: 240px;
+    background-image: url("images/1.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/*
+height et width 100vh vw size cover et body margin padding 0 pour que ça prenne tout l'écran
+object fit c'est bien pour faire des cards avec des trucs bien centrés*/
